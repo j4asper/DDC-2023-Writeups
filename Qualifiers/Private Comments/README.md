@@ -10,4 +10,5 @@ This command uses the recursive flag (-r) to iterate over all files and search f
 
 ![Step 2](./images/2_step.PNG)
 
-And my initial assumption was correct, the flag were hidden in a css file. **DDC{4lw4ys_ch3ck_c0pyr1ght_4nd_cr3d1t5}**
+And my initial assumption was correct, the flag were hidden in a css file.
+**DDC{4lw4ys_ch3ck_c0pyr1ght_4nd_cr3d1t5}**
